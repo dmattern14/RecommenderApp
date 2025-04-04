@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecommenderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+846cf36f75a0ca64f02d6a3ef08eb5a0609d5ae2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fedb605221b16afc2e27547e961eb5379449e25e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecommenderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecommenderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
