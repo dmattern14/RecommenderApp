@@ -65,3 +65,4 @@
 /Users/dmattern/Desktop/RecommenderApp/backend/RecommenderApp/obj/Debug/net8.0/RecommenderApp.pdb
 /Users/dmattern/Desktop/RecommenderApp/backend/RecommenderApp/obj/Debug/net8.0/RecommenderApp.genruntimeconfig.cache
 /Users/dmattern/Desktop/RecommenderApp/backend/RecommenderApp/obj/Debug/net8.0/ref/RecommenderApp.dll
+/Users/dmattern/Desktop/RecommenderApp/backend/RecommenderApp/obj/Debug/net8.0/RecommenderApp.sourcelink.json
